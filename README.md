@@ -1,6 +1,6 @@
 # 🌾CropForEst--Location-based-Crop-Prediction-and-Estimation
 
-## Mail to [suriyaa2002@gmail.com](mailto:suriyaa2002@gmail.com)
+## Mail to [mohammedfidan89@gmail.com)
 ## Full Project Code and Report available
 
 ### Kindly Star this Repository ⚡
