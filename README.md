@@ -1,2 +1,4 @@
 # Agricultural-Crop-Recommendation-System
-ML-powered crop recommendation system using soil, climate, and environmental data to provide data-driven agricultural suggestions.
+An intelligent crop recommendation system built with machine learning that analyzes soil composition, climate patterns, and environmental factors to suggest the most suitable crops for a given region — helping farmers make informed, data-driven decisions to maximize agricultural efficiency.
+
+
